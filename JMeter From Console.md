@@ -6,7 +6,7 @@
   jmeter -n –t <your plan.jmex> -l <jmeter output file>.jtl
 ```
 >1.  Open JMeter in GUI mode.
-2.  Add any listener Eg. View Results Tree.
+2.  Add any listener Eg. View Results Tree/**summary Report.**
 3.  Click Browse button of the file name field in listener.
 4.  Open testresult.jtl file.
 
