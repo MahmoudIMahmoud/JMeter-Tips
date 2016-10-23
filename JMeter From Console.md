@@ -5,6 +5,17 @@
 ```shell
   jmeter -n –t <your plan.jmex> -l <jmeter output file>.jtl
 ```
+______
+Where:
+______
+|Parameter|Means|
+|---|----------------|
+| n | non gui |
+| t | test plan file |
+| l | output log |
+
+
+###How to view the results?
 >1.  Open JMeter in GUI mode.
 2.  Add any listener Eg. View Results Tree/**summary Report.**
 3.  Click Browse button of the file name field in listener.
